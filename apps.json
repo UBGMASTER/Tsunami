@@ -1,0 +1,37 @@
+[
+    {
+    "title": "YouTube",
+    "image": "/apps/images/yt.png",
+    "location": "/apps/apps.html#aHR0cHM6Ly93d3cueW91dHViZS5jb20="
+    },
+    {
+        "title": "Discord",
+        "image": "/apps/images/dd.jpg",
+        "location": "/apps/apps.html#aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcHA="
+    },
+    {
+        "title": "UBG100",
+        "image": "/apps/images/cmg.png",
+        "location": "/uv.html?url=ubg100.github.io"
+    },
+    {
+        "title": "CrazyGames",
+        "image": "/apps/images/gfnow.png",
+        "location": "/uv.html?url=crazygames.com"
+    },
+    {
+            "title": "Arc108",
+            "image": "/apps/images/y8.png",
+            "location": "/uv.html?url=arc018.com"
+    },
+    {
+            "title": "Google",
+            "image": "/apps/images/y8.png",
+            "location": "/uv.html?url=https://www.bing.com/search?q=%s&PC=U316&FORM=CHROMN"
+    },
+    {
+            "title": "Heros",
+            "image": "/apps/images/y8.png",
+            "location": "/uv.html?url=hero-wars.com"
+    }
+]
